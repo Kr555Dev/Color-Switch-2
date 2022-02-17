@@ -1,2 +1,4 @@
 # color-switch-2
- Simple copied game xD
+ Simple game 
+ copied idea xD
+ 
